@@ -1,0 +1,18 @@
+#head_img > #img1 {
+    height: 33vh;
+    width: 29vw;
+    border-radius: 150%;
+}
+
+#fb {
+    height: 3vh;
+    width: 3vh;
+}
+#tw {
+    height: 3vh;
+}
+
+#in {
+    height: 3vh;
+    width: 3vh;
+}
